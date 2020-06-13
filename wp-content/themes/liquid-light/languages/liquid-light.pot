@@ -1,0 +1,615 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"liquid-light\n"
+"POT-Creation-Date: "
+"2019-07-05 16:07+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: LIQUID "
+"PRESS <info@lqd.jp>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.2.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Not found."
+msgstr ""
+
+#: archive.php:64
+#: index.php:181
+#: page.php:66
+#: search.php:61
+#: single.php:92
+#: single.php:188
+msgid "No articles"
+msgstr ""
+
+#: comments.php:12
+#, php-format
+msgid "Comment (%1$s)"
+msgid_plural ""
+"Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: footer.php:53
+msgid "(C)"
+msgstr ""
+
+#: footer.php:55
+msgid ""
+". All rights reserved."
+msgstr ""
+
+#: footer.php:58
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:58
+msgid ""
+"Responsive WordPress "
+"Theme LIQUID PRESS"
+msgstr ""
+
+#: footer.php:59
+msgid "LIQUID PRESS"
+msgstr ""
+
+#: functions.php:125
+#: functions.php:295
+msgid "Theme Color"
+msgstr ""
+
+#: functions.php:130
+msgid "LIQUID Blue"
+msgstr ""
+
+#: functions.php:135
+msgid "LIQUID Dark Blue"
+msgstr ""
+
+#: functions.php:140
+msgid "Red"
+msgstr ""
+
+#: functions.php:145
+msgid "Orange"
+msgstr ""
+
+#: functions.php:150
+msgid "Pink"
+msgstr ""
+
+#: functions.php:155
+msgid "Yellow"
+msgstr ""
+
+#: functions.php:160
+msgid "Green"
+msgstr ""
+
+#: functions.php:165
+msgid "Purple"
+msgstr ""
+
+#: functions.php:170
+msgid "White"
+msgstr ""
+
+#: functions.php:175
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:283
+msgid "Text Color"
+msgstr ""
+
+#: functions.php:302
+msgid "Layout"
+msgstr ""
+
+#: functions.php:310
+msgid ""
+"Layout of lower page"
+msgstr ""
+
+#: functions.php:316
+msgid "2 columns"
+msgstr ""
+
+#: functions.php:317
+msgid "1 column"
+msgstr ""
+
+#: functions.php:324
+msgid "About LIQUID PRESS"
+msgstr ""
+
+#: functions.php:325
+msgid ""
+"MAGAZINE theme has more "
+"advanced customization, "
+"popular articles "
+"section. The CORPORATE "
+"theme allows you to set "
+"up your business, be "
+"multilingual, and more. "
+"&raquo;"
+msgstr ""
+
+#: functions.php:333
+#: functions.php:341
+#: functions.php:350
+#: functions.php:359
+msgid "Slideshow caption"
+msgstr ""
+
+#: functions.php:335
+msgid ""
+"It is displayed below "
+"the image. If you enter "
+"only the URL, the image "
+"will be linked. HTML "
+"tags can be used. If "
+"empty, it will be "
+"hidden."
+msgstr ""
+
+#: functions.php:367
+msgid "SEO"
+msgstr ""
+
+#: functions.php:368
+msgid ""
+"Settings related to "
+"SEO. If you use the "
+"plugin together, please "
+"disable it to prevent "
+"duplication."
+msgstr ""
+
+#: functions.php:376
+msgid ""
+"META Description, "
+"Author, Next, Prev"
+msgstr ""
+
+#: functions.php:381
+#: functions.php:395
+#: functions.php:470
+#: functions.php:578
+#: functions.php:594
+#: functions.php:610
+#: functions.php:626
+msgid "Enabled"
+msgstr ""
+
+#: functions.php:382
+#: functions.php:396
+#: functions.php:471
+#: functions.php:579
+#: functions.php:595
+#: functions.php:611
+#: functions.php:627
+msgid "Disabled"
+msgstr ""
+
+#: functions.php:390
+msgid "OGP, TwitterCards"
+msgstr ""
+
+#: functions.php:402
+msgid "SNS accounts"
+msgstr ""
+
+#: functions.php:403
+msgid ""
+"Enter url to display "
+"the icon."
+msgstr ""
+
+#: functions.php:408
+msgid "Facebook URL"
+msgstr ""
+
+#: functions.php:409
+msgid ""
+"e.g. https://www."
+"facebook.com/lqdjp"
+msgstr ""
+
+#: functions.php:416
+msgid "Twitter URL"
+msgstr ""
+
+#: functions.php:423
+msgid "Google-plus URL"
+msgstr ""
+
+#: functions.php:430
+msgid "Tumblr URL"
+msgstr ""
+
+#: functions.php:437
+msgid "Instagram URL"
+msgstr ""
+
+#: functions.php:444
+msgid "YouTube URL"
+msgstr ""
+
+#: functions.php:451
+msgid "Flickr URL"
+msgstr ""
+
+#: functions.php:458
+msgid "Pinterest URL"
+msgstr ""
+
+#: functions.php:465
+msgid "Feed icon display"
+msgstr ""
+
+#: functions.php:477
+msgid "Google Analytics"
+msgstr ""
+
+#: functions.php:478
+msgid ""
+"You can check the "
+"tracking ID in Google "
+"Analytics > Analytics "
+"settings > Property "
+"settings."
+msgstr ""
+
+#: functions.php:483
+msgid "Tracking ID"
+msgstr ""
+
+#: functions.php:484
+msgid "e.g. UA-XXXXXXX-XX"
+msgstr ""
+
+#: functions.php:492
+msgid ""
+"Slideshow Images or "
+"Movie"
+msgstr ""
+
+#: functions.php:493
+msgid ""
+"Requirements: Select "
+"\"Your latest posts\" "
+"in \"Homepage Settings"
+"\"."
+msgstr ""
+
+#: functions.php:493
+msgid ""
+"You can set 1 to 3 "
+"images. When empty, the "
+"area is hidden. This "
+"image is recommended a "
+"ratio of 2:1. If you "
+"set the movie, it does "
+"not slide. Mobile does "
+"not display movies."
+msgstr ""
+
+#: functions.php:499
+#: functions.php:507
+#: functions.php:515
+msgid "Image"
+msgstr ""
+
+#: functions.php:502
+#: functions.php:510
+#: functions.php:518
+msgid "Upload Image"
+msgstr ""
+
+#: functions.php:524
+msgid "Movie:MP4/WebM"
+msgstr ""
+
+#: functions.php:527
+msgid "Upload Movie"
+msgstr ""
+
+#: functions.php:533
+msgid "Movie:Option"
+msgstr ""
+
+#: functions.php:534
+msgid ""
+"You can set upload "
+"movie playback options. "
+"In the latest browser, "
+"since there is a sound "
+"and automatic playback "
+"of Movie is not "
+"possible, input "
+"\"controls\" and "
+"display the play "
+"button. No sound Movie "
+"can be auto-played by "
+"entering \"muted\"."
+msgstr ""
+
+#: functions.php:543
+msgid "Movie:YouTube URL"
+msgstr ""
+
+#: functions.php:551
+msgid "Options"
+msgstr ""
+
+#: functions.php:552
+msgid ""
+"Advanced Options. Not "
+"supported."
+msgstr ""
+
+#: functions.php:560
+msgid "Customize Viewport"
+msgstr ""
+
+#: functions.php:561
+msgid "e.g."
+msgstr ""
+
+#: functions.php:572
+msgid "Dropdown Menu"
+msgstr ""
+
+#: functions.php:573
+msgid ""
+"Make menu items "
+"dropdown on all "
+"devices. Default is "
+"disabled."
+msgstr ""
+
+#: functions.php:588
+msgid ""
+"Widget device extract"
+msgstr ""
+
+#: functions.php:589
+msgid ""
+"Add device extraction. "
+"Default is enabled."
+msgstr ""
+
+#: functions.php:604
+msgid ""
+"Widget device extraction"
+msgstr ""
+
+#: functions.php:605
+msgid ""
+"Use UA for device "
+"extraction. Default is "
+"disabled."
+msgstr ""
+
+#: functions.php:620
+msgid ""
+"Automatic insertion of "
+"tags"
+msgstr ""
+
+#: functions.php:621
+msgid ""
+"Converts article line "
+"feeds into p tags. "
+"WordPress default "
+"enabled."
+msgstr ""
+
+#: functions.php:633
+msgid "License ID"
+msgstr ""
+
+#: functions.php:634
+msgid ""
+"LIQUID PRESS License ID"
+msgstr ""
+
+#: functions.php:634
+msgid "Get"
+msgstr ""
+
+#: functions.php:639
+msgid "Mail address"
+msgstr ""
+
+#: functions.php:679
+msgid "- Devices -"
+msgstr ""
+
+#: functions.php:680
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:681
+msgid "Desktop"
+msgstr ""
+
+#: functions.php:731
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:739
+msgid "Headline"
+msgstr ""
+
+#: functions.php:747
+msgid "Page Header"
+msgstr ""
+
+#: functions.php:748
+#: functions.php:781
+msgid "100% width area."
+msgstr ""
+
+#: functions.php:756
+msgid "Top of main area"
+msgstr ""
+
+#: functions.php:764
+msgid ""
+"Bottom of main area"
+msgstr ""
+
+#: functions.php:772
+msgid "Top of home"
+msgstr ""
+
+#: functions.php:780
+msgid "Page Footer"
+msgstr ""
+
+#: functions.php:789
+msgid "Footer"
+msgstr ""
+
+#: functions.php:806
+msgid ""
+"Facebook Page Plugin"
+msgstr ""
+
+#: functions.php:831
+#: functions.php:920
+msgid "Title:"
+msgstr ""
+
+#: functions.php:837
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: functions.php:853
+msgid ""
+"Recent Posts with "
+"Thumbnails"
+msgstr ""
+
+#: functions.php:923
+msgid ""
+"Number of posts to show:"
+msgstr ""
+
+#: functions.php:942
+msgid "?hl=en"
+msgstr ""
+
+#: functions.php:969
+#: functions.php:978
+msgid "Theme Support"
+msgstr ""
+
+#: functions.php:972
+msgid ""
+"Thank you for using"
+msgstr ""
+
+#: functions.php:972
+msgid "Get ZIP"
+msgstr ""
+
+#: functions.php:978
+msgid ""
+"&#9432; Theme Support"
+msgstr ""
+
+#: functions.php:1069
+#: single.php:103
+msgid "&laquo; Prev"
+msgstr ""
+
+#: functions.php:1070
+#: single.php:111
+msgid "Next &raquo;"
+msgstr ""
+
+#: header.php:29
+#: page.php:18
+#: single.php:20
+msgid "TOP"
+msgstr ""
+
+#: header.php:216
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:9
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: share.php:7
+msgid "Facebook"
+msgstr ""
+
+#: share.php:9
+msgid "Twitter"
+msgstr ""
+
+#: share.php:11
+msgid "Google+"
+msgstr ""
+
+#: share.php:13
+msgid "Hatena"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Tags"
+msgstr ""
+
+#: single.php:149
+msgid "Recommend"
+msgstr ""

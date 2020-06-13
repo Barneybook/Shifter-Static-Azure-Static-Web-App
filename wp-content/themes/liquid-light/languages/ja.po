@@ -1,0 +1,504 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: liquid-light\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2019-07-05 16:08+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: LIQUID PRESS <info@lqd.jp>\n"
+"Language-Team: LIQUID PRESS <info@lqd.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Not found."
+msgstr "Not found."
+
+#: archive.php:64 index.php:181 page.php:66 search.php:61 single.php:92
+#: single.php:188
+msgid "No articles"
+msgstr "No articles"
+
+#: comments.php:12
+#, php-format
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "コメント (%1$s)"
+
+#: footer.php:53
+msgid "(C)"
+msgstr "(C)"
+
+#: footer.php:55
+msgid ". All rights reserved."
+msgstr ". All rights reserved."
+
+#: footer.php:58
+msgid "Theme by"
+msgstr "Theme by"
+
+#: footer.php:58
+msgid "Responsive WordPress Theme LIQUID PRESS"
+msgstr "レスポンシブWordPressテーマ LIQUID PRESS"
+
+#: footer.php:59
+msgid "LIQUID PRESS"
+msgstr "LIQUID PRESS"
+
+#: functions.php:125 functions.php:295
+msgid "Theme Color"
+msgstr "テーマカラー"
+
+#: functions.php:130
+msgid "LIQUID Blue"
+msgstr "LIQUID ブルー"
+
+#: functions.php:135
+msgid "LIQUID Dark Blue"
+msgstr "LIQUID ダークブルー"
+
+#: functions.php:140
+msgid "Red"
+msgstr "レッド"
+
+#: functions.php:145
+msgid "Orange"
+msgstr "オレンジ"
+
+#: functions.php:150
+msgid "Pink"
+msgstr "ピンク"
+
+#: functions.php:155
+msgid "Yellow"
+msgstr "イエロー"
+
+#: functions.php:160
+msgid "Green"
+msgstr "グリーン"
+
+#: functions.php:165
+msgid "Purple"
+msgstr "パープル"
+
+#: functions.php:170
+msgid "White"
+msgstr "ホワイト"
+
+#: functions.php:175
+msgid "Dark Gray"
+msgstr "ダークグレー"
+
+#: functions.php:283
+msgid "Text Color"
+msgstr "テキストカラー"
+
+#: functions.php:302
+msgid "Layout"
+msgstr "レイアウト"
+
+#: functions.php:310
+msgid "Layout of lower page"
+msgstr "下層ページのレイアウト"
+
+#: functions.php:316
+msgid "2 columns"
+msgstr "2カラム"
+
+#: functions.php:317
+msgid "1 column"
+msgstr "1カラム"
+
+#: functions.php:324
+msgid "About LIQUID PRESS"
+msgstr "LIQUID PRESS について"
+
+#: functions.php:325
+msgid ""
+"MAGAZINE theme has more advanced customization, popular articles section. "
+"The CORPORATE theme allows you to set up your business, be multilingual, and "
+"more. &raquo;"
+msgstr ""
+"上位版のMAGAZINEテーマでは、さらに高度なカスタマイズや人気記事の設定などが可"
+"能です。CORPORATEテーマでは、会社情報の設定や多言語対応などが可能です。詳しく"
+"は &raquo;"
+
+#: functions.php:333 functions.php:341 functions.php:350 functions.php:359
+msgid "Slideshow caption"
+msgstr "スライドショーコピー"
+
+#: functions.php:335
+msgid ""
+"It is displayed below the image. If you enter only the URL, the image will "
+"be linked. HTML tags can be used. If empty, it will be hidden."
+msgstr ""
+"画像の下に表示されます。URL（https〜）のみを入力すると画像にリンクが付きま"
+"す。HTML可。空にするとエリアが非表示になります。"
+
+#: functions.php:367
+msgid "SEO"
+msgstr "SEO"
+
+#: functions.php:368
+msgid ""
+"Settings related to SEO. If you use the plugin together, please disable it "
+"to prevent duplication."
+msgstr ""
+"SEO対策関連の設定をします。外部プラグインを併用する場合は重複防止のため表示し"
+"ない設定にしてください。"
+
+#: functions.php:376
+msgid "META Description, Author, Next, Prev"
+msgstr "META Description, Author, Next, Prev"
+
+#: functions.php:381 functions.php:395 functions.php:470 functions.php:578
+#: functions.php:594 functions.php:610 functions.php:626
+msgid "Enabled"
+msgstr "する"
+
+#: functions.php:382 functions.php:396 functions.php:471 functions.php:579
+#: functions.php:595 functions.php:611 functions.php:627
+msgid "Disabled"
+msgstr "しない"
+
+#: functions.php:390
+msgid "OGP, TwitterCards"
+msgstr "OGP, TwitterCards"
+
+#: functions.php:402
+msgid "SNS accounts"
+msgstr "SNSアカウント"
+
+#: functions.php:403
+msgid "Enter url to display the icon."
+msgstr "URLを入力するとアイコンなどが表示されます（HTML可）"
+
+#: functions.php:408
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions.php:409
+msgid "e.g. https://www.facebook.com/lqdjp"
+msgstr "例: https://www.facebook.com/lqdjp"
+
+#: functions.php:416
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions.php:423
+msgid "Google-plus URL"
+msgstr "Google-plus URL"
+
+#: functions.php:430
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: functions.php:437
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions.php:444
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: functions.php:451
+msgid "Flickr URL"
+msgstr "Flickr URL"
+
+#: functions.php:458
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: functions.php:465
+msgid "Feed icon display"
+msgstr "Feedアイコン表示"
+
+#: functions.php:477
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: functions.php:478
+msgid ""
+"You can check the tracking ID in Google Analytics > Analytics settings > "
+"Property settings."
+msgstr ""
+"Googleアナリティクスのアナリティクス設定＞プロパティ設定でトラッキングIDを確"
+"認できます。"
+
+#: functions.php:483
+msgid "Tracking ID"
+msgstr "トラッキングID"
+
+#: functions.php:484
+msgid "e.g. UA-XXXXXXX-XX"
+msgstr "例: UA-XXXXXXX-XX"
+
+#: functions.php:492
+msgid "Slideshow Images or Movie"
+msgstr "スライドショー画像/動画"
+
+#: functions.php:493
+msgid "Requirements: Select \"Your latest posts\" in \"Homepage Settings\"."
+msgstr "「ホームページ設定」で「最新の投稿」を選択する必要があります。"
+
+#: functions.php:493
+msgid ""
+"You can set 1 to 3 images. When empty, the area is hidden. This image is "
+"recommended a ratio of 2:1. If you set the movie, it does not slide. Mobile "
+"does not display movies."
+msgstr ""
+"画像を3枚まで設定できます。1枚のみ固定表示も可。全て空にするとエリアが非表示"
+"になります。画像は横縦2:1位がおすすめです。動画を設定した場合はスライドしませ"
+"ん。スマホでは動画ではなくスライドショー画像が表示されます。"
+
+#: functions.php:499 functions.php:507 functions.php:515
+msgid "Image"
+msgstr "画像"
+
+#: functions.php:502 functions.php:510 functions.php:518
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: functions.php:524
+msgid "Movie:MP4/WebM"
+msgstr "動画: MP4/WebM"
+
+#: functions.php:527
+msgid "Upload Movie"
+msgstr "動画をアップロード"
+
+#: functions.php:533
+msgid "Movie:Option"
+msgstr "動画: オプション"
+
+#: functions.php:534
+msgid ""
+"You can set upload movie playback options. In the latest browser, since "
+"there is a sound and automatic playback of Movie is not possible, input "
+"\"controls\" and display the play button. No sound Movie can be auto-played "
+"by entering \"muted\"."
+msgstr ""
+"アップロード動画の再生オプションを設定できます。最新ブラウザでは音声あり動画"
+"の自動再生が不可のため「controls」を入力して再生ボタンを表示します。音声なし"
+"動画は「muted」を入力すると自動再生できます。"
+
+#: functions.php:543
+msgid "Movie:YouTube URL"
+msgstr "動画: YouTube URL"
+
+#: functions.php:551
+msgid "Options"
+msgstr "オプション"
+
+#: functions.php:552
+msgid "Advanced Options. Not supported."
+msgstr ""
+"【上級者向け】オプション機能は導入サポート対象外とさせて頂いております。"
+
+#: functions.php:560
+msgid "Customize Viewport"
+msgstr "Viewportカスタマイズ"
+
+#: functions.php:561
+msgid "e.g."
+msgstr "例:"
+
+#: functions.php:572
+msgid "Dropdown Menu"
+msgstr "ドロップダウンメニュー"
+
+#: functions.php:573
+msgid "Make menu items dropdown on all devices. Default is disabled."
+msgstr ""
+"メニューの副項目を全端末でドロップダウンにします。デフォルトは「しない」で"
+"す。"
+
+#: functions.php:588
+msgid "Widget device extract"
+msgstr "ウィジェットのデバイス判定"
+
+#: functions.php:589
+msgid "Add device extraction. Default is enabled."
+msgstr "デバイス判定機能を追加します。デフォルトは「する」です。"
+
+#: functions.php:604
+msgid "Widget device extraction"
+msgstr "ウィジェットのデバイス判定（UA）"
+
+#: functions.php:605
+msgid "Use UA for device extraction. Default is disabled."
+msgstr "デバイス判定にUA判定を追加します。デフォルトは「しない」です。"
+
+#: functions.php:620
+msgid "Automatic insertion of tags"
+msgstr "タグの自動挿入"
+
+#: functions.php:621
+msgid "Converts article line feeds into p tags. WordPress default enabled."
+msgstr "記事内の改行をpタグに変換します。WordPressのデフォルトは「する」です。"
+
+#: functions.php:633
+msgid "License ID"
+msgstr "ライセンスID"
+
+#: functions.php:634
+msgid "LIQUID PRESS License ID"
+msgstr "LIQUID PRESS ライセンスID"
+
+#: functions.php:634
+msgid "Get"
+msgstr "Get"
+
+#: functions.php:639
+msgid "Mail address"
+msgstr "メールアドレス"
+
+#: functions.php:679
+msgid "- Devices -"
+msgstr "- デバイス -"
+
+#: functions.php:680
+msgid "Mobile"
+msgstr "モバイル"
+
+#: functions.php:681
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: functions.php:731
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:739
+msgid "Headline"
+msgstr "ヘッドライン"
+
+#: functions.php:747
+msgid "Page Header"
+msgstr "ページヘッダー"
+
+#: functions.php:748 functions.php:781
+msgid "100% width area."
+msgstr "幅100%のエリアです。"
+
+#: functions.php:756
+msgid "Top of main area"
+msgstr "メインエリア上部"
+
+#: functions.php:764
+msgid "Bottom of main area"
+msgstr "メインエリア下部"
+
+#: functions.php:772
+msgid "Top of home"
+msgstr "トップページ上部"
+
+#: functions.php:780
+msgid "Page Footer"
+msgstr "ページフッター"
+
+#: functions.php:789
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:806
+msgid "Facebook Page Plugin"
+msgstr "Facebook Page Plugin"
+
+#: functions.php:831 functions.php:920
+msgid "Title:"
+msgstr "タイトル:"
+
+#: functions.php:837
+msgid "Facebook Page URL:"
+msgstr "Facebook Page URL:"
+
+#: functions.php:853
+msgid "Recent Posts with Thumbnails"
+msgstr "最近の投稿（画像付き）"
+
+#: functions.php:923
+msgid "Number of posts to show:"
+msgstr "表示する投稿数:"
+
+#: functions.php:942 functions.php:970
+msgid "?hl=en"
+msgstr "?hl=ja"
+
+#: functions.php:969 functions.php:978
+msgid "Theme Support"
+msgstr "テーマのサポート"
+
+#: functions.php:972
+msgid "Thank you for using"
+msgstr "ご利用ありがとうございます"
+
+#: functions.php:972
+msgid "Get ZIP"
+msgstr "Get ZIP"
+
+#: functions.php:978
+msgid "&#9432; Theme Support"
+msgstr "&#9432; テーマのサポート"
+
+#: functions.php:1069 single.php:103
+msgid "&laquo; Prev"
+msgstr "&laquo; Prev"
+
+#: functions.php:1070 single.php:111
+msgid "Next &raquo;"
+msgstr "Next &raquo;"
+
+#: header.php:29 page.php:18 single.php:20
+msgid "TOP"
+msgstr "TOP"
+
+#: header.php:216
+msgid "Toggle navigation"
+msgstr "ナビ"
+
+#: search.php:9
+#, php-format
+msgid "Search: %s"
+msgstr "検索: %s"
+
+#: share.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: share.php:9
+msgid "Twitter"
+msgstr "Twitter"
+
+#: share.php:11
+msgid "Google+"
+msgstr "Google+"
+
+#: share.php:13
+msgid "Hatena"
+msgstr "はてブ"
+
+#: sidebar.php:10
+msgid "Categories"
+msgstr "Categories"
+
+#: sidebar.php:18
+msgid "Tags"
+msgstr "Tags"
+
+#: single.php:149
+msgid "Recommend"
+msgstr "関連記事"

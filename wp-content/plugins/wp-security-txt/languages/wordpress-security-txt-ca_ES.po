@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wordpress-security-txt-translations\n"
+"Language: ca\n"
+
+#. Name of the plugin
+#: admin/class-wordpress-security-txt-admin.php:117
+#: admin/class-wordpress-security-txt-admin.php:118
+#: admin/class-wordpress-security-txt-admin.php:648
+msgid "security.txt"
+msgstr "security.txt"
+
+#: admin/class-wordpress-security-txt-admin.php:126
+#: admin/class-wordpress-security-txt-admin.php:127
+msgid "security.txt Help"
+msgstr "seguretat de security.txt"
+
+#: admin/class-wordpress-security-txt-admin.php:165
+msgid "General"
+msgstr "General"
+
+#: admin/class-wordpress-security-txt-admin.php:173
+msgid "Directives"
+msgstr "Directives"
+
+#: admin/class-wordpress-security-txt-admin.php:180
+msgid "Library"
+msgstr "Biblioteca"
+
+#: admin/class-wordpress-security-txt-admin.php:187
+#: admin/class-wordpress-security-txt-admin.php:405
+msgid "Debug"
+msgstr "Depuració"
+
+#: admin/class-wordpress-security-txt-admin.php:202
+msgid "Enable"
+msgstr "Habilita"
+
+#: admin/class-wordpress-security-txt-admin.php:215
+msgid "Menu"
+msgstr "Menú"
+
+#: admin/class-wordpress-security-txt-admin.php:228
+msgid "Redirect"
+msgstr "Redireccionament"
+
+#: admin/class-wordpress-security-txt-admin.php:285
+msgid "Contact"
+msgstr "Contacte"
+
+#: admin/class-wordpress-security-txt-admin.php:300
+msgid "Encryption"
+msgstr "Encriptació"
+
+#: admin/class-wordpress-security-txt-admin.php:315
+msgid "Disclosure"
+msgstr "Divulgació"
+
+#: admin/class-wordpress-security-txt-admin.php:348
+msgid "Acknowledgement"
+msgstr "Reconeixement"
+
+#: admin/class-wordpress-security-txt-admin.php:363
+msgid "Cache"
+msgstr "Cache"
+
+#: admin/class-wordpress-security-txt-admin.php:377
+msgid "Credits"
+msgstr "Crèdits"
+
+#: admin/class-wordpress-security-txt-admin.php:391
+msgid "Statistics"
+msgstr "Estadístiques"
+
+#: admin/class-wordpress-security-txt-admin.php:626
+#: admin/class-wordpress-security-txt-admin.php:655
+msgid "Settings"
+msgstr "Configuració"
+
+#: admin/class-wordpress-security-txt-admin.php:630
+#: admin/class-wordpress-security-txt-admin.php:663
+msgid "Help"
+msgstr "Ajuda"
+
+#: admin/class-wordpress-security-txt-sanitizer.php:198
+msgid "Specify the data type to sanitize."
+msgstr "Especifiqueu el tipus de dades per desinfectar."
+
+#: admin/class-wordpress-security-txt-sanitizer.php:204
+msgid "Forgot data type."
+msgstr "S'ha oblidat el tipus de dades."
+
+#. Description of the plugin
+#: 
+msgid "A plugin for serving 'security.txt' in WordPress 4.9+, based on configuration settings."
+msgstr "Un complement per servir 'security.txt' en WordPress 4.9 o superior, en funció de la configuració."
+
+#. URI of the plugin
+#: 
+msgid "https://github.com/austinheap/wordpress-security-txt"
+msgstr "https://github.com/austinheap/wordpress-security-txt"
+
+#. Author of the plugin
+#: 
+msgid "Austin Heap"
+msgstr "Austin Heap"
+
+#. Author URI of the plugin
+#: 
+msgid "https://github.com/austinheap"
+msgstr "https://github.com/austinheap"
+

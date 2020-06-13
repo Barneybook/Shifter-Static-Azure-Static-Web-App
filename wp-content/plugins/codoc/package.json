@@ -1,0 +1,14 @@
+{
+  "name": "wordpress-cgb-guten-block",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cross-env NODE_ENV=\"development\" cgb-scripts start",
+    "build": "cross-env NODE_ENV=\"development\" cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "cgb-scripts": "1.18.1",
+    "universal-cookie": "^4.0.0"
+  }
+}

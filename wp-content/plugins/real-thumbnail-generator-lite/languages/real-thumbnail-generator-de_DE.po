@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"POT-Creation-Date: 2020-03-30T13:40:18+02:00\n"
+"PO-Revision-Date: 2020-04-07 20:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Real Thumbnail Generator"
+msgstr "Real Thumbnail Generator"
+
+#. Plugin URI of the plugin
+msgid "https://devowl.io/"
+msgstr "https://devowl.io/"
+
+#. Description of the plugin
+msgid ""
+"Single or mass image regeneration for your WordPress media thumbnails. "
+"Create a custom thumbnail upload structure for all your images."
+msgstr ""
+"Einzel- oder Massenbildregeneration für deine WordPress Medien Thumbnails. "
+"Erstelle eine benutzerdefinierte Struktur zum Hochladen von Thumbnails für "
+"alle deine Bilder."
+
+#. Author of the plugin
+msgid "devowl.io"
+msgstr "devowl.io"
+
+#. Author URI of the plugin
+msgid "https://devowl.io"
+msgstr "https://devowl.io"
+
+#: inc/AdInitiator.php:56
+msgid "Regenerate all your media in bulk"
+msgstr "Erezeuge alle Medien in einem Lauf neu"
+
+#: inc/AdInitiator.php:57
+msgid ""
+"Navigate to your media library and press the \"Regenerate\" button. A new "
+"dialog will open where you can regenerate your all thumbnails in media "
+"library with one click. Fast and efficient!"
+msgstr ""
+"Navigiere zu deiner Medienbibliothek und drücke die Schaltfläche "
+"“Regenerate”. Es öffnet sich ein neuer Dialog, in dem du mit einem Klick "
+"alle Thumbnails deiner Medienbibliothek neu generieren kannst. Schnell und "
+"effizient!"
+
+#: inc/AdInitiator.php:59
+msgid ""
+"In the PRO version you are able to regenerate more than 300 media files, "
+"skip existing files and check only specific thumbnail sizes."
+msgstr ""
+"In der PRO-Version kannst mehr als 300 Mediendateien neu generieren, "
+"bestehende Thumnails überspringen und nur bestimmte Thumbnails prüfen "
+"lassen."
+
+#: inc/AdInitiator.php:63
+msgid "Custom thumbnail upload structure"
+msgstr ""
+"Einzel- oder Massenbildregeneration für deine WordPress Medien Thumbnails. "
+"Erstelle eine benutzerdefinierte Struktur zum Hochladen von Thumbnails für "
+"alle deine Bilder."
+
+#: inc/AdInitiator.php:64
+msgid ""
+"Have you ever looked at the URL paths of your media uploads? Not really "
+"expressive. But this is exactly what is important to ensure that your images "
+"and the pages on which they are used get a good ranking in search engines. "
+"Improve your ranking with physically reordered uploads!"
+msgstr ""
+"Hast du dir jemals die URL-Pfade deiner Medien-Uploads angesehen? Nicht "
+"wirklich aussagekräftig. Aber genau das ist wichtig, um sicherzustellen, "
+"dass deine Bilder und die Seiten, auf denen sie verwendet werden, ein gutes "
+"Ranking in den Suchmaschinen erhalten. Verbessere dein Ranking mit physisch "
+"neu geordneten Uploads!"
+
+#: inc/AdInitiator.php:69
+msgid "Rich meta data and detect unused files"
+msgstr "Erweiterte Metadaten und Erkennung unbenutzter Dateien"
+
+#: inc/AdInitiator.php:70
+msgid ""
+"When you open a single media file, you can view a list of all included "
+"thumbnail sizes."
+msgstr ""
+"Wenn du eine einzelne Mediendatei öffnst, kannst du eine Liste aller "
+"enthaltenen Thumbnails anzeigen lassen."
+
+#: inc/AdInitiator.php:72
+msgid ""
+"In the PRO version you can also delete unused thumbnail sizes - this can "
+"also be done for all files with one click."
+msgstr ""
+"In der PRO-Version kannst du auch unbenutzte Thumbnails löschen - dies kann "
+"auch für alle Dateien mit einem Klick geschehen."
+
+#: inc/AdInitiator.php:83
+msgid "Get your PRO license now!"
+msgstr "Holen dir jetzt deine PRO-Lizenz!"
+
+#. translators:
+#: inc/attachment/Regenerate.php:247
+msgid "The thumbnails of image id %d could not be generated."
+msgstr ""
+
+#: inc/attachment/Thumbnail.php:77
+msgid "The given image was not found on server."
+msgstr ""
+
+#: inc/attachment/Thumbnail.php:83
+msgid "You have not the permissions to regenerate the thumbnails."
+msgstr ""
+
+#: inc/attachment/Thumbnail.php:90
+msgid "The given post ID is not an image."
+msgstr ""
+
+#: inc/attachment/Thumbnail.php:171
+msgid "Not found"
+msgstr ""
+
+#: inc/attachment/Thumbnail.php:223
+msgid "Not generated"
+msgstr ""
+
+#: inc/attachment/Thumbnail.php:229
+msgid "Disrupted"
+msgstr ""
+
+#: inc/attachment/Thumbnail.php:236
+msgid "Greater than original"
+msgstr ""
+
+#: inc/editor/Editor.php:135
+msgid "The filename is not valid"
+msgstr ""
+
+#: inc/editor/Editor.php:138
+msgid "The filename has no extension"
+msgstr ""
+
+#: inc/editor/Editor.php:142
+msgid "The pattern is invalid"
+msgstr ""
+
+#: inc/overrides/lite/attachment/Thumbnail.php:23
+msgid "This function is not available in Lite version."
+msgstr ""
+
+#: inc/overrides/pro/attachment/Thumbnail.php:77
+msgid ""
+"One or more thumbnail sizes could not be deleted, please check your server "
+"permissions."
+msgstr ""
+
+#: inc/overrides/pro/attachment/Thumbnail.php:102
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/overrides/pro/Core.php:48
+msgid ""
+"<strong>You have not yet entered the license key</strong>. To receive "
+"automatic updates, please enter the key in \"Enter license\"."
+msgstr ""
+
+#: inc/overrides/pro/editor/Adapter.php:40
+msgid "Image resize failed."
+msgstr ""
+
+#: inc/rest/Service.php:127
+msgid "Forbidden"
+msgstr ""
+
+#: inc/view/View.php:39
+msgid "Thumbnails"
+msgstr ""
+
+#. translators:
+#: inc/view/View.php:46
+msgid "%1$d of %2$s registered"
+msgstr ""
+
+#: inc/view/View.php:54
+msgid "More"
+msgstr ""
+
+#: inc/view/View.php:59 inc/view/View.php:81
+msgid "Regenerate"
+msgstr ""

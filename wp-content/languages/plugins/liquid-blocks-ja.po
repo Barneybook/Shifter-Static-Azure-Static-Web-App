@@ -1,0 +1,105 @@
+# Translation of Plugins - LIQUID BLOCKS GALLERY 33+ Free Designs - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - LIQUID BLOCKS GALLERY 33+ Free Designs - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-24 08:50:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - LIQUID BLOCKS GALLERY 33+ Free Designs - Development (trunk)\n"
+
+#. Plugin Name of the plugin
+#: src/block.js:67 src/block.js:73 lib/block.js:78 lib/block.js:86
+msgid "LIQUID BLOCKS"
+msgstr "LIQUID BLOCKS"
+
+#: liquid-blocks.php:219 src/block.js:76 lib/block.js:91
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+#: liquid-blocks.php:114
+msgid "Headlines"
+msgstr "ヘッドライン"
+
+#: liquid-blocks.php:118
+msgid "Price list"
+msgstr "料金表"
+
+#: src/block.js:177 lib/block.js:224
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: src/block.js:184 lib/block.js:236
+msgid "Just choose your favorite design!"
+msgstr "好きなデザインを選ぶだけ！"
+
+#: src/block.js:213 lib/block.js:268
+msgid "LIQUID PRESS"
+msgstr "LIQUID PRESS"
+
+#: src/block.js:224 src/block.js:236 lib/block.js:281 lib/block.js:289
+msgid "Mark"
+msgstr "マーク"
+
+#: src/block.js:246 src/block.js:258 lib/block.js:298 lib/block.js:306
+msgid "Big"
+msgstr "Big"
+
+#: src/block.js:268 src/block.js:280 lib/block.js:315 lib/block.js:323
+msgid "Small"
+msgstr "Small"
+
+#: src/block.js:290 src/block.js:302 lib/block.js:332 lib/block.js:340
+msgid "Underline"
+msgstr "アンダーライン"
+
+#: liquid-blocks.php:82 liquid-blocks.php:209 src/block.js:173 lib/block.js:216
+msgid "Settings"
+msgstr "設定"
+
+#: liquid-blocks.php:116 src/block.js:57 lib/block.js:64
+msgid "Layouts"
+msgstr "レイアウト"
+
+#: liquid-blocks.php:120
+msgid "CTA: Call To Action"
+msgstr "CTA: コールトゥアクション"
+
+#: liquid-blocks.php:122
+msgid "Landing pages"
+msgstr "ランディングページ"
+
+#: liquid-blocks.php:124
+msgid "Recommended Plugins"
+msgstr "おすすめプラグイン"
+
+#: liquid-blocks.php:178
+msgid "illegal data"
+msgstr "不正データ"
+
+#: liquid-blocks.php:202
+msgid "Recommend"
+msgstr "おすすめ"
+
+#: liquid-blocks.php:237
+msgid "Enable"
+msgstr "有効"
+
+#. Author URI of the plugin
+msgid "https://lqd.jp/wp/"
+msgstr "https://lqd.jp/wp/"
+
+#. Author of the plugin
+msgid "LIQUID DESIGN Ltd."
+msgstr "LIQUID DESIGN Ltd."
+
+#. Plugin URI of the plugin
+msgid "https://lqd.jp/wp/plugin.html"
+msgstr "https://lqd.jp/wp/plugin.html"
+
+#. Description of the plugin
+msgid "A magic tool to master WordPress blocks."
+msgstr "WordPress ブロックをマスターするための魔法のツール。"

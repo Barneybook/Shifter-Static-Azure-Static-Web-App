@@ -1,0 +1,146 @@
+# Translation of Themes - LIQUID in Japanese
+# This file is distributed under the same license as the Themes - LIQUID package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-17 01:38:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - LIQUID\n"
+
+#. Theme Name of the theme
+#: footer.php:21
+msgid "LIQUID"
+msgstr "LIQUID"
+
+#. Description of the theme
+msgid "LIQUID is Responsive Web Design+ (RWD+) theme, based on Bootstrap 4. RWD+ is a unique feature. You can switch the mobile display and PC display on smartphones."
+msgstr "LIQUID は、Bootstrap 4がベースのレスポンシブ Web デザインプラス (RWD+) テーマです。RWD+ はユニークな機能で、スマートフォン上で携帯表示と PC 表示を切り替えます。"
+
+#: functions.php:175
+msgid "Professional features and support"
+msgstr "プロフェッショナルな機能とサポート"
+
+#: functions.php:175
+msgid "Web Marketing tool LIQUID CONNECT"
+msgstr "Webマーケティングツール LIQUID CONNECT"
+
+#: functions.php:44
+msgid "headline"
+msgstr "ヘッドライン"
+
+#: single.php:126
+msgid "Recommend"
+msgstr "おすすめ"
+
+#: single.php:50
+msgid "Last update: "
+msgstr "最終更新日: "
+
+#: sidebar.php:18
+msgid "Tags"
+msgstr "タグ"
+
+#: sidebar.php:10
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: search.php:9
+msgid "Search: %s"
+msgstr "検索: %s"
+
+#: page.php:55 single.php:87 single.php:151
+msgid "No articles"
+msgstr "記事がありません"
+
+#: header.php:55
+msgid "Toggle navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: header.php:6 page.php:18 single.php:20
+msgid "TOP"
+msgstr "トップ"
+
+#: functions.php:244 single.php:101
+msgid "Next &gt;"
+msgstr "次 &gt;"
+
+#: functions.php:243 single.php:98
+msgid "&lt; Prev"
+msgstr "&lt; 前"
+
+#: functions.php:124
+msgid "Global Menu"
+msgstr "グローバルメニュー"
+
+#: functions.php:76
+msgid "footer"
+msgstr "フッター"
+
+#: functions.php:68
+msgid "top_header"
+msgstr "トップ_ヘッダー"
+
+#: functions.php:60
+msgid "main_foot"
+msgstr "メイン_フッター"
+
+#: functions.php:52
+msgid "main_head"
+msgstr "メイン_ヘッダー"
+
+#: functions.php:36
+msgid "sidebar"
+msgstr "サイドバー"
+
+#: footer.php:24
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:23
+msgid "Powered by"
+msgstr "Powered by"
+
+#: functions.php:167 functions.php:174
+msgid "LIQUID PRESS"
+msgstr "LIQUID PRESS"
+
+#: footer.php:20
+msgid "Theme by"
+msgstr "テーマ:"
+
+#: footer.php:15
+msgid "(C)"
+msgstr "(C)"
+
+#: comments.php:12
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "コメント (%1$s)"
+
+#: index.php:16 archive.php:21 search.php:18 single.php:136
+msgid "no image"
+msgstr "画像がありません"
+
+#: 404.php:5
+msgid "Not found."
+msgstr "見つかりません。"
+
+#: footer.php:18
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+#. Author of the theme
+msgid "LIQUID DESIGN Ltd."
+msgstr "LIQUID DESIGN Ltd."
+
+#. Author URI of the theme
+msgid "https://lqd.jp/wp/"
+msgstr "https://lqd.jp/wp/"
+
+#. Theme URI of the theme
+msgid "https://lqd.jp/wp/liquid.html"
+msgstr "https://lqd.jp/wp/liquid.html"

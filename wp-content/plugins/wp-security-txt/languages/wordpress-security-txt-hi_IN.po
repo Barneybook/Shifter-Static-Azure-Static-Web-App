@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wordpress-security-txt-translations\n"
+"Language: hi\n"
+
+#. Name of the plugin
+#: admin/class-wordpress-security-txt-admin.php:117
+#: admin/class-wordpress-security-txt-admin.php:118
+#: admin/class-wordpress-security-txt-admin.php:648
+msgid "security.txt"
+msgstr "security.txt"
+
+#: admin/class-wordpress-security-txt-admin.php:126
+#: admin/class-wordpress-security-txt-admin.php:127
+msgid "security.txt Help"
+msgstr "security.txt सहायता"
+
+#: admin/class-wordpress-security-txt-admin.php:165
+msgid "General"
+msgstr "सामान्य"
+
+#: admin/class-wordpress-security-txt-admin.php:173
+msgid "Directives"
+msgstr "निर्देशों"
+
+#: admin/class-wordpress-security-txt-admin.php:180
+msgid "Library"
+msgstr "पुस्तकालय"
+
+#: admin/class-wordpress-security-txt-admin.php:187
+#: admin/class-wordpress-security-txt-admin.php:405
+msgid "Debug"
+msgstr "डिबग"
+
+#: admin/class-wordpress-security-txt-admin.php:202
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: admin/class-wordpress-security-txt-admin.php:215
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: admin/class-wordpress-security-txt-admin.php:228
+msgid "Redirect"
+msgstr "पुन: निर्देशित"
+
+#: admin/class-wordpress-security-txt-admin.php:285
+msgid "Contact"
+msgstr "संपर्क करें"
+
+#: admin/class-wordpress-security-txt-admin.php:300
+msgid "Encryption"
+msgstr "एन्क्रिप्शन"
+
+#: admin/class-wordpress-security-txt-admin.php:315
+msgid "Disclosure"
+msgstr "प्रकटीकरण"
+
+#: admin/class-wordpress-security-txt-admin.php:348
+msgid "Acknowledgement"
+msgstr "अभिस्वीकृति"
+
+#: admin/class-wordpress-security-txt-admin.php:363
+msgid "Cache"
+msgstr "कैश"
+
+#: admin/class-wordpress-security-txt-admin.php:377
+msgid "Credits"
+msgstr "क्रेडिट"
+
+#: admin/class-wordpress-security-txt-admin.php:391
+msgid "Statistics"
+msgstr "आंकड़े"
+
+#: admin/class-wordpress-security-txt-admin.php:626
+#: admin/class-wordpress-security-txt-admin.php:655
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: admin/class-wordpress-security-txt-admin.php:630
+#: admin/class-wordpress-security-txt-admin.php:663
+msgid "Help"
+msgstr "मदद"
+
+#: admin/class-wordpress-security-txt-sanitizer.php:198
+msgid "Specify the data type to sanitize."
+msgstr "स्वच्छता के लिए डेटा प्रकार निर्दिष्ट करें"
+
+#: admin/class-wordpress-security-txt-sanitizer.php:204
+msgid "Forgot data type."
+msgstr "डेटा प्रकार भूल गए"
+
+#. Description of the plugin
+#: 
+msgid "A plugin for serving 'security.txt' in WordPress 4.9+, based on configuration settings."
+msgstr "कॉन्फ़िगरेशन सेटिंग्स पर आधारित वर्डप्रेस 4.9+ में 'security.txt' परोसने के लिए एक प्लगइन।"
+
+#. URI of the plugin
+#: 
+msgid "https://github.com/austinheap/wordpress-security-txt"
+msgstr "https://github.com/austinheap/wordpress-security-txt"
+
+#. Author of the plugin
+#: 
+msgid "Austin Heap"
+msgstr "Austin Heap"
+
+#. Author URI of the plugin
+#: 
+msgid "https://github.com/austinheap"
+msgstr "https://github.com/austinheap"
+

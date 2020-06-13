@@ -1,0 +1,421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-14T15:07:00+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#: admin.lite.js:329
+#: admin.lite.js:834
+#: admin.lite.js:1193
+#: admin.lite.js:1377
+#: admin.lite.js:1516
+#: admin.pro.js:329
+#: admin.pro.js:834
+#: admin.pro.js:1193
+#: admin.pro.js:1377
+#: admin.pro.js:1516
+msgid "Thumbnails"
+msgstr ""
+
+#: admin.lite.js:329
+#: admin.lite.js:901
+#: admin.pro.js:329
+#: admin.pro.js:901
+msgid "Analyse"
+msgstr ""
+
+#: admin.lite.js:340
+#: admin.lite.js:1204
+#: admin.pro.js:340
+#: admin.pro.js:1204
+msgid "Cancel"
+msgstr ""
+
+#: admin.lite.js:344
+#: admin.pro.js:344
+msgid "Analyse all attachments"
+msgstr ""
+
+#: admin.lite.js:352
+#: admin.pro.js:352
+msgid "Delete unused thumbnails"
+msgstr ""
+
+#: admin.lite.js:361
+#: admin.pro.js:361
+msgid "%d image"
+msgid_plural "%d images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin.lite.js:361
+#: admin.pro.js:361
+msgid "%d image incl. thumbnails"
+msgid_plural "%d images incl. thumbnails"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin.lite.js:367
+#: admin.lite.js:1553
+#: admin.pro.js:367
+#: admin.pro.js:1553
+msgid "%d thumbnail needs to be generated"
+msgid_plural "%d thumbnails needs to be generated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin.lite.js:373
+#: admin.lite.js:1559
+#: admin.pro.js:373
+#: admin.pro.js:1559
+msgid "%s unused"
+msgstr ""
+
+#: admin.lite.js:421
+#: admin.pro.js:421
+msgid "Note"
+msgstr ""
+
+#: admin.lite.js:421
+#: admin.pro.js:421
+msgid "Thumbnails are only visible when hovering a list item"
+msgstr ""
+
+#: admin.lite.js:428
+#: admin.pro.js:428
+msgid "Generated thumbnail files"
+msgstr ""
+
+#: admin.lite.js:428
+#: admin.pro.js:428
+msgid "Needs to be generated"
+msgstr ""
+
+#: admin.lite.js:428
+#: admin.pro.js:428
+msgid "Unused thumbnail files"
+msgstr ""
+
+#: admin.lite.js:593
+#: admin.pro.js:593
+msgid "Show only failed regenerations"
+msgstr ""
+
+#: admin.lite.js:600
+#: admin.pro.js:600
+msgid "Search by filename..."
+msgstr ""
+
+#: admin.lite.js:913
+#: admin.pro.js:913
+msgid "Bulk generate"
+msgstr ""
+
+#: admin.lite.js:924
+#: admin.lite.js:1516
+#: admin.pro.js:924
+#: admin.pro.js:1516
+msgid "Single file"
+msgstr ""
+
+#: admin.lite.js:938
+#: admin.lite.js:1377
+#: admin.pro.js:938
+#: admin.pro.js:1377
+msgid "Settings"
+msgstr ""
+
+#: admin.lite.js:943
+#: admin.pro.js:943
+msgid "Product license not yet activated."
+msgstr ""
+
+#: admin.lite.js:945
+#: admin.pro.js:945
+msgid "Enter license"
+msgstr ""
+
+#: admin.lite.js:948
+#: admin.pro.js:948
+msgid "Dismiss notice"
+msgstr ""
+
+#: admin.lite.js:953
+#: admin.pro.js:953
+msgid "You are using an plugin with an own registered image editor"
+msgstr ""
+
+#: admin.lite.js:953
+#: admin.pro.js:953
+msgid "It is highly recommenend not regenerating thumbnails."
+msgstr ""
+
+#: admin.lite.js:957
+#: admin.pro.js:957
+msgid "Please contact us"
+msgstr ""
+
+#: admin.lite.js:1045
+#: admin.pro.js:1045
+msgid "Thanks for using Real Thumbnail Generator Lite and speed up your thumbnail regeneration."
+msgstr ""
+
+#: admin.lite.js:1049
+#: admin.lite.js:1278
+#: admin.pro.js:1049
+#: admin.pro.js:1278
+msgid "Learn more about PRO"
+msgstr ""
+
+#: admin.lite.js:1053
+#: admin.pro.js:1053
+msgid "You will be redirected to the external website of the PRO version. Please confirm that you want to continue."
+msgstr ""
+
+#: admin.lite.js:1067
+#: admin.pro.js:1067
+msgid "PRO feature"
+msgstr ""
+
+#: admin.lite.js:1193
+#: admin.pro.js:1193
+msgid "Bulk regenerate"
+msgstr ""
+
+#: admin.lite.js:1208
+#: admin.pro.js:1208
+msgid "Regenerate all attachments"
+msgstr ""
+
+#: admin.lite.js:1215
+#: admin.pro.js:1215
+msgid "Skip already existing files"
+msgstr ""
+
+#: admin.lite.js:1225
+#: admin.pro.js:1225
+msgid "If there is an old schema, use new schema for regenerate and delete old thumbnails. If you check this option, all image sizes will be regenerated."
+msgstr ""
+
+#: admin.lite.js:1230
+#: admin.pro.js:1230
+msgid "Your current thumbnails schema:"
+msgstr ""
+
+#: admin.lite.js:1235
+#: admin.pro.js:1235
+msgid "Only checked sizes will be regenerated"
+msgstr ""
+
+#: admin.lite.js:1242
+#: admin.pro.js:1242
+msgid "Select all"
+msgstr ""
+
+#: admin.lite.js:1249
+#: admin.pro.js:1249
+msgid "Deselect all"
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "Here you can configure the thumbnail pathes. You can set a sub folder and a filename pattern. A pattern is a string with placeholders which are replaced when a thumbnail is generated. Here is a list of placeholders you can use within your pattern:"
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "The name of the thumbnail size. For example: \"medium\", \"large\""
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "The width of the registered thumbnail size (number)."
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "The height of the registered thumbnail size(number)."
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "The basename of the uploaded file. For example: You upload an image with the name \"car.jpg\" then the name is \"car\"."
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "The extension of the file. For example: The \"jpg\" of \"car.jpg\"."
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "The generated width of the thumbnail size (number)."
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "The generated height of the thumbnail size (number)."
+msgstr ""
+
+#: admin.lite.js:1387
+#: admin.pro.js:1387
+msgid "Thumbnail subfolder"
+msgstr ""
+
+#: admin.lite.js:1400
+#: admin.pro.js:1400
+msgid "Type here your pattern for thumbnails' subfolder with placeholders. Default: Empty"
+msgstr ""
+
+#: admin.lite.js:1400
+#: admin.pro.js:1400
+msgid "Examples"
+msgstr ""
+
+#: admin.lite.js:1400
+#: admin.pro.js:1400
+msgid "{{code}}thumbnails/%%size-identifier%%{{/code}} can result in: thumbnails/{{strong}}medium{{/strong}}"
+msgstr ""
+
+#: admin.lite.js:1403
+#: admin.pro.js:1403
+msgid "{{code}}%%identifier-width%%x%%identifier-height%%/{{/code}} can result in: {{strong}}300x300{{/strong}}"
+msgstr ""
+
+#: admin.lite.js:1406
+#: admin.pro.js:1406
+msgid "Thumbnail filename"
+msgstr ""
+
+#: admin.lite.js:1421
+#: admin.pro.js:1421
+msgid "Verify"
+msgstr ""
+
+#: admin.lite.js:1423
+#: admin.pro.js:1423
+msgid "Type here your pattern for thumbnail filenames with placeholders. Default: Empty for wordpress standard"
+msgstr ""
+
+#: admin.lite.js:1423
+#: admin.pro.js:1423
+msgid "Example"
+msgstr ""
+
+#: admin.lite.js:1423
+#: admin.pro.js:1423
+msgid "{{code}}%%name%%-%%image-width%%x%%image-height%%.%%extension%%{{/code}} can result in: {{strong}}car-300x300.jpg{{/strong}}"
+msgstr ""
+
+#: admin.lite.js:1426
+#: admin.pro.js:1426
+msgid "Verify results"
+msgstr ""
+
+#: admin.lite.js:1440
+#: admin.pro.js:1440
+msgid "Chunk size"
+msgstr ""
+
+#: admin.lite.js:1449
+#: admin.pro.js:1449
+msgid "If you notice higher CPU usage you can reduce it by setting down the chunk size."
+msgstr ""
+
+#: admin.lite.js:1456
+#: admin.pro.js:1456
+msgid "Save"
+msgstr ""
+
+#: admin.lite.js:1547
+#: admin.pro.js:1547
+msgid "%d thumbnail"
+msgid_plural "%d thumbnails"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin.lite.js:1564
+#: admin.pro.js:1564
+msgid "The schema for thumbnails has changed. If you press \"Regenerate\" the old schema is used, so do not worry about references."
+msgstr ""
+
+#: admin.lite.js:1570
+#: admin.pro.js:1570
+msgid "Force new thumbnail schema and delete old thumbnails"
+msgstr ""
+
+#: admin.lite.js:1570
+#: admin.pro.js:1570
+msgid "New schema:"
+msgstr ""
+
+#: admin.lite.js:1579
+#: admin.lite.js:2118
+#: admin.lite.js:2206
+#: admin.pro.js:1579
+#: admin.pro.js:2149
+#: admin.pro.js:2237
+msgid "Regenerate"
+msgstr ""
+
+#: admin.lite.js:1590
+#: admin.pro.js:1590
+msgid "Delete unused sizes"
+msgstr ""
+
+#: admin.lite.js:1595
+#: admin.pro.js:1595
+msgid "Not seeing the correct image here? Perhaps you have to refresh your browser and / or clear cookies to see changes take affect."
+msgstr ""
+
+#: admin.lite.js:1595
+#: admin.pro.js:1595
+msgid "No file selected."
+msgstr ""
+
+#: admin.lite.js:1595
+#: admin.pro.js:1595
+msgid "Please select an item from the analyse / regenerate tab or open an item in the media library to navigate to the single file view."
+msgstr ""
+
+#: admin.lite.js:1642
+#: admin.pro.js:1642
+msgid "Space on filesystem"
+msgstr ""
+
+#: admin.lite.js:1665
+#: admin.pro.js:1665
+msgid "The current thumbnail size differs from registered size."
+msgstr ""
+
+#: admin.lite.js:1670
+#: admin.pro.js:1670
+msgid "The file does no longer exist on filesystem."
+msgstr ""
+
+#: admin.lite.js:1675
+#: admin.pro.js:1675
+msgid "This image size is not longer registered in your WordPress."
+msgstr ""
+
+#: admin.lite.js:1680
+#: admin.pro.js:1680
+msgid "This image size is cropped."
+msgstr ""
+
+#: admin.lite.js:1688
+#: admin.pro.js:1688
+msgid "Used schema"
+msgstr ""
+
+#: admin.lite.js:1765
+#: admin.pro.js:1765
+msgid "The maximum amount of regenerated images is reached."
+msgstr ""

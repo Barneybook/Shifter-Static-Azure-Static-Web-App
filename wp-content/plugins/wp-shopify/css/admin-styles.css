@@ -1,0 +1,14 @@
+/* CSS Document */
+.wpsy_settings_div{
+}
+.wpsy_settings_div pre{
+	background-color:#fff;
+	color:#666;
+	font-size:18px;
+	padding:20px 20px 40px 20px;
+	border-radius: 6px;
+	
+}
+
+@media only screen and (max-width: 480px) {
+}
